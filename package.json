@@ -1,0 +1,21 @@
+{
+  "name": "day-36",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "file-system": "^2.2.2",
+    "fs": "0.0.1-security",
+    "mocha": "^3.4.2",
+    "supertest": "^3.0.0"
+  }
+}
